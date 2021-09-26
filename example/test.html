@@ -3,7 +3,7 @@
  * @Date: 2021-09-26 11:35:46
  * @Email: lishanshan6@jd.com
  * @LastEditors: 李闪闪
- * @LastEditTime: 2021-09-26 11:35:46
+ * @LastEditTime: 2021-09-26 13:58:30
  * @Description: 
 -->
 <!DOCTYPE html>
@@ -17,5 +17,11 @@
 <body>
     <p>fast-cache test</p >
     <script src="../release/bundle.js"></script>
+    <script>
+        var FC = window.FastCache;
+        var cache = new FC();
+        cache.set('a', 100);
+        alert(cache.get('a'))
+    </script>
 </body>
 </html>
