@@ -10,9 +10,9 @@
 
 ## 安装下载
 
-https://github.com/doudizhu/fast-cache-ddza/releases
+https://github.com/leolss/fast-cache-lss/releases
 - `npm i fast-cache-npm`
-- CDN http://unpkg.com/fast-cache-ddza/release/bundle.js
+- CDN http://unpkg.com/fast-cache-lss/release/bundle.js
 
 ## 快速使用
 
@@ -29,7 +29,7 @@ alert(cache.get('a'))
 
 ## 交流 & 提问
 
-- 提问（提供用户交流区，类似论坛）： https://github.com/doudizhu/fast-cache-ddza/issues
+- 提问（提供用户交流区，类似论坛）： https://github.com/leolss/fast-cache-lss/issues
 - QQ 群：微信群（及时回馈） 
 
 ## 关于作者
